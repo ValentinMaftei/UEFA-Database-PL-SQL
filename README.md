@@ -4,7 +4,7 @@
 
 # Bază de date UEFA
 
-###### Proiectat folosind Oracle SQL, PL/SQL.
+###### Proiectat folosind Oracle SQL, PL/SQL (funcții, proceduri, pachete, declanșatori).
 
 ### Descriere proiect:
 
@@ -26,7 +26,7 @@ Echipele înscrise în campionat pot participa la campionatele europene organiza
 
 # UEFA Database
 
-###### Designed using Oracle SQL, PL/SQL.
+###### Designed using Oracle SQL, PL/SQL (functions, procedures, packages, triggers).
 
 ### Project description:
 
